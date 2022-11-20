@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://bonyiii.github.io/nbdev_cards"
+  description: "Test"
+  repo-branch: main
+  repo-url: "https://github.com/bonyiii/nbdev_cards"
